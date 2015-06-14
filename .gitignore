@@ -2,6 +2,7 @@
 *.dev
 *.win
 *.layout
+*.*~
 
 # Compiled Object files
 *.slo
